@@ -38,7 +38,7 @@ def readLines(filename):
 all_categories = []
 
 all_categories = readLines('star_trek_transcripts_all_episodes_f.csv')
-all_categories = all_categories[0:500] #reducing size to test
+#all_categories = all_categories[0:500] #reducing size to test
 np.random.shuffle(all_categories)
 n_categories = len(all_categories)
 
@@ -232,7 +232,7 @@ def multiSample(model, n=10, temperature=0.5):
 num_layers = 2
 hidden_size = 100
 learning_rate = 1
-n_iters = 500
+n_iters = 10
 print_every = 1
 #plot_every = 500
 train_losses = []
@@ -270,7 +270,7 @@ with open('startrek_gen.txt','w') as f:
             #print('%s (%d %d%%) %.4f' % (timeSince(start), iter, iter / n_iters * 100, loss))
             print(multiSample(model))
 
-torch.save(model.state_dict(),'model')
+	    torch.save(model.state_dict(),'model'+str(iter))
 
 import matplotlib.pyplot as plt
 
