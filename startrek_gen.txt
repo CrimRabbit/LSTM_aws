@@ -1,0 +1,85 @@
+Epoch 1:
+Train acc: 0.35659142232024393
+Test acc: 0.42005221711623586
+Train loss: 2.111147165298462
+Test loss: 1.751437783241272
+
+BAWLANON: Captain.
+HANAN: Walp it.
+KIRK: What ry.
+ZENTERIAN: Captain.
+WILANE: Is to reain wakriced.
+MCCOY: What is it and that walk of it and have surtaring it and have reforly the beand that is who.
+MCCOY: I fan conderson.
+VINA: I something in have that any warcived.
+UHURA: Is of of it.
+KIRK: That if indisal.
+
+Epoch 2:
+Train acc: 0.4433294964281635
+Test acc: 0.46431009366709125
+Train loss: 1.7231433391571045
+Test loss: 1.6173385381698608
+
+FANDER: What is is in it.
+WAMAN: No,sir.
+ANDER: And it conserponserns.
+FANDER: At was is any that it and is have solonse.
+SPOCK: It was,it was con of you any that you be of you.
+MCCOY: That is any a say one and intion.
+ANDER: Not of it,inse.
+EN: Captain,possing is man it.
+PIKE: And it all of is furforent,it as what is that inter to be here.
+MCCOY: And surfy it.
+
+Epoch 3:
+Train acc: 0.46741940302441853
+Test acc: 0.4776458666141211
+Train loss: 1.623849630355835
+Test loss: 1.5522445440292358
+
+NOEL: Sander for and searing mest.
+GAILEY: Doctor.
+GELDER: One and want it along.
+KIRK: Soon that and a about for from that it all your the do.
+UHURA: I was do.
+JAILEY: It can it have factor.
+PAMAN: Captain.
+DELIAN: Captain.
+RENDER: What is warp.
+ZANDER : In and the pard one,you want intere,Koman,Mister Spock.
+
+Epoch 4:
+Train acc: 0.4797560782728655
+Test acc: 0.47549947571763346
+Train loss: 1.5755647420883179
+Test loss: 1.5547901391983032
+
+ARATER: It acden for is that?
+SPOCK: I have with for any it to un all the say that attand.
+ANANAN: Soond by me,warp of one and any for sention. Leady?
+UHURA: And the stary.
+LAZASUN: No.
+ANAN: And look probe it it are are it.
+PIKE: What wasn't is nothing.
+ANAN: What any a vings.
+SPOCK: All doing in of for it.
+ONE: Why is of farandors.
+
+Epoch 5:
+Train acc: 0.4876606887098333
+Test acc: 0.4949084792996432
+Train loss: 1.5416706800460815
+Test loss: 1.488068699836731
+
+FARRELL: What is warp a for it it.
+JAND: There is and that a sight that a least find to some it. It had and have for that that warp have
+UHURA: Sir?
+CHARLIE: It may a reading.
+ONE: Starstion and of the safe.
+AYELBORNE: Thank you.
+RUTH: Thank you.
+BAILEY: That is about that?
+SPOCK: And you reasonly any are the simbing and and that and here,Mister Spock,me. Captain.
+ONE: Searing that me.
+
