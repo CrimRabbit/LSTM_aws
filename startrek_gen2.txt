@@ -1,0 +1,85 @@
+Epoch 1:
+Train acc: 0.4938788474258001
+Test acc: 0.5078011308924784
+Train loss: 1.5259006023406982
+Test loss: 1.4744632244110107
+
+CHARLIE: I were beast to the means to speaking?
+MCCOY: Well,sir.
+RAND: When?
+GAIGA: We've getting to speak the the messal the meding in neck,sir.
+WANDREA: What?
+ANAN: You see the sensors me?
+BREWDES: When?
+PITCHER: When?
+LAZARUS: We're me went.
+DEHNER: Not on.
+
+Epoch 2:
+Train acc: 0.5020496917172909
+Test acc: 0.5185887736115435
+Train loss: 1.4886525869369507
+Test loss: 1.449039101600647
+
+AYELBORNE: And you got understand the gottenting,sir.
+JARNAN: When?
+DEHNER: Yes,sir.
+Z2terse. Good,sir.
+MCCOY: When?
+GAETA: When?
+SPOCK: Now?
+BAILEY: When?
+PIPER: Yes,sir.
+CHARLIE: I've commander. We've give we see we did. When's we mean in beam the state the fort we've de
+
+Epoch 3:
+Train acc: 0.5068209621771234
+Test acc: 0.5134990334561725
+Train loss: 1.4710294008255005
+Test loss: 1.4582700729370117
+
+UHURA: Yes,sir.
+GAETANO: When it interment we have stand go to you?
+WELIAN: Where?
+GAETANO: I wennt something,sir.
+SPOCK: Yes,sir.
+VINA: Yes,you've sorry?
+EN: No we were it?
+VINA: I got we were?
+BANCY: And out?
+GAETANO: Yes,the well,an better we the start tell whenty?
+
+Epoch 4:
+Train acc: 0.5047110624017256
+Test acc: 0.5128763909905083
+Train loss: 1.478118896484375
+Test loss: 1.4589686393737793
+
+GAETANO: When?
+TRELANE: I two?
+KIRK: Report me men yours?
+NEXTEPISODE
+MCCOY: Did you get the security one me.
+RAND: Why?
+EVER: When?
+ILEY: What?
+HACOM: Yes,sir.
+SPOCK: Yes,sir.
+
+Epoch 5:
+Train acc: 0.5064893815672594
+Test acc: 0.5058608032087807
+Train loss: 1.4728845357894897
+Test loss: 1.491963267326355
+
+TRELANE: When?
+LAZARUS: When?
+KIRK: Well,Mister Spock?
+KIRK: Yes?
+HANS: DeSing in on on on?
+Wn the men?
+SPOCK: We've got sensor to you? I've got am,the men well,when? When? You are you want in the and spea
+LAZARHER: It's it would he would you?
+ZISTHER: I were sensed the the mentions,sir.
+MCCOY: Is the sense on out it?
+
